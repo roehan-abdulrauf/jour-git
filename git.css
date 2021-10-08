@@ -1,0 +1,19 @@
+html {margin:10%;
+}
+    #titre {font-size: 150%;}
+    
+        * {font-family:'Times New Roman', Times, serif ;}
+     
+            table   {
+             table-layout:fixed;
+             width: 100%;
+             border-collapse:collapse;
+             border: 2px solid black;
+             border:"10";
+             padding: 10px;} 
+     
+                h1{color:red;
+                 text-decoration:underline;
+                 text-align: center;}
+   
+                 
